@@ -1,0 +1,10 @@
+*{
+    /* border: 1px solid red; */
+}
+.bab-footer-font{
+    font-size: 10px;
+}
+li{
+    list-style: none;
+    margin-left: 10px;
+}
